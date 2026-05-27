@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Note: You can replace the src below with your actual Niyum Trading logo URL -->
-  <img src="https://via.placeholder.com/150?text=Niyum+Trading+Logo" alt="Niyum Trading Logo" width="150"/>
+  <img src="https://www.niyumtrading.com/wp-content/uploads/2024/12/niyum-logo-3-768x297.png" alt="Niyum Trading Logo" width="150"/>
   
   # Niyum Trading Co., Ltd.
   **Engineering the Future of FMCG Distribution in Cambodia 🇰🇭**
